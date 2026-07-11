@@ -1,9 +1,9 @@
-# Hardware Engineering Portfolio: IC Characterization PCBs
+# PCB design and layout for Analog Circuits Characterization 
 
 This repository documents the design and implementation of high-performance test PCBs developed during my internship, specifically engineered for the characterization of 2x2mm bare silicon dies.
 
 ## 🛠 Project Overview
-I designed four 2-layer (80x80mm) PCBs optimized for high-frequency signal integrity. The boards facilitate testing of critical analog circuits, including **Bandgap Reference circuits** and **oscillators**.
+I designed four 2-layer (80x80mm) PCBs optimized for high-frequency signal integrity. The boards facilitate testing of critical analog circuits, including **Bandgap Reference circuits**, **oscillators**, etc.
 
 ### Key Technical Specifications
 * **Chip-on-Board (COB) Layout:** * Centralized 7x7mm footprint designed for bare die wire-bonding.
