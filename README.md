@@ -18,7 +18,7 @@ I designed four 2-layer (80x80mm) PCBs optimized for high-frequency signal integ
 
 ## 💻 Technical Stack
 * **PCB Design:** Altium Designer
-* **Circuit Simulation:** LTspice (extensively used for Bandgap Reference modeling and PSRR/GSRR analysis).
+* **Circuit Simulation:** LTspice (extensively used for understanding Bandgap Reference modeling and PSRR/GSRR analysis).
 
 ## 🎓 Credits & Mentorship
 Special thanks to my mentors for their guidance throughout this project:
