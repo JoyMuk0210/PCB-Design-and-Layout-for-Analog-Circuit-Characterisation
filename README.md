@@ -9,7 +9,7 @@ I designed four 2-layer (80x80mm) PCBs optimized for high-frequency signal integ
 * **Chip-on-Board (COB) Layout:** * Centralized 7x7mm footprint designed for bare die wire-bonding.
 * **Signal Integrity & RF Routing:**
   * High-frequency signals routed from COB pads to edge-mount female SMA connectors.
-  * **Impedance Matching:** Controlled 50$\Omega$ impedance path.
+  * **Impedance Matching:** Controlled 50Ohm impedance path.
   * **EMI Mitigation:** Comprehensive via stitching and shielding along all critical signal traces.
 * **DC Signal & Power Management:**
   * Dedicated routing for DC signals.
